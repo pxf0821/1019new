@@ -5,6 +5,5 @@ div{
 
 	123456789456789£»,
 	JUSTIN BIEBER;
-	background:black;
 
 }
